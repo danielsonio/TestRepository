@@ -1,3 +1,5 @@
+ADDING TEXT ADDING TEXT XOXOXOXOXOXOXOXOXOX
+
 
 function setup() {
 	createCanvas(400, 400)
